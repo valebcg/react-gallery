@@ -1,0 +1,52 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: url("https://images7.alphacoders.com/375/375951.jpg") no-repeat center center
+    fixed;
+ 
+ }
+
+.container{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+div h1{
+  text-align: center;
+  margin-bottom: 5rem;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-decoration: underline wavy;
+}
+
+img{
+width: 20.2rem;
+height: 20rem;
+}
+
+.galeria{
+  border: 2px solid black;
+  width: 20.5rem;
+  margin-bottom: 15px;
+  text-align: center;
+  background-color: rgb(232, 232, 15);
+  
+  
+}
+
+footer{
+  text-align: center;
+  font-size: 1.5rem;
+  margin-top: 5rem;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+button{
+ color: black;
+}
+
+
+
+
